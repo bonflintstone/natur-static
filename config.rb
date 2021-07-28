@@ -1,4 +1,5 @@
 require 'slim'
+require 'middleman-gh-pages'
 
 activate :directory_indexes
 

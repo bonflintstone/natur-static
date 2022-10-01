@@ -4,7 +4,4 @@ To Develop:
 
 To Deploy:
 
-This uses https://github.com/edgecase/middleman-gh-pages
-
-`rake build`
-`rake publish`
+This page uses github actions to deploy automatically when the main branch is pushed.
